@@ -1,6 +1,10 @@
 # SmartLprAccessNet 1.0.0
-.NET SDK FOR Quecus SmartLPR ®Access LRP
+.NET SDK FOR Quercus SmartLPR ®Access LRP
 
+## Quercus Technologies - LPR http://quercus-technologies.com/
+
+
+## https://www.nuget.org/packages/SmartLprAccessNet/
 ```csharp
 Install-Package SmartLprAccessNet -Version 1.0.0
 ```
